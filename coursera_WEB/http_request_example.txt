@@ -1,0 +1,5 @@
+GET / HTTP/1.1
+Host: example.com
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html, application/xhtml+xml,application/xml;q=0.9,image/apng,*/*;q=0.8
